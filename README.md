@@ -3,10 +3,7 @@ This project is a didactic purpose and an example of how to create a basic game 
 
 <b>Playing tetris game</b>
 
-<video width="100%" controls>
-  <source src="./img/VID-01.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video>
+![](./img/IMG-GAME.gif)
 
 <b>build.bat</b><br>
 To compile for windows execute this bat file.
